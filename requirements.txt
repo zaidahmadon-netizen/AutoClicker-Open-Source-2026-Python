@@ -1,0 +1,7 @@
+lxml
+mouse
+pillow
+requests
+beautifulsoup4
+colorama
+opencv-python
